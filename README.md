@@ -17,4 +17,5 @@ Tasks:-
 
  0. New node:
    a function that creates a binary tree node.
-
+ 1. Insert left:
+   a function that inserts a node as the left-child of another node
