@@ -23,3 +23,6 @@ Tasks:-
   
  2. Insert right:
    a function that inserts a node as the right-child of another node
+
+ 3. Delete:
+   a function that deletes an entire binary tree
