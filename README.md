@@ -27,11 +27,14 @@ Tasks:-
  3. Delete:
    a function that deletes an entire binary tree
 
- 4. Is leaf
+ 4. Is leaf:
    a function that checks if a node is a leaf
 
- 5. Is root
+ 5. Is root:
    a function that checks if a given node is a root
 
- 6. Pre-order traversal
+ 6. Pre-order traversal:
    a function that goes through a binary tree using pre-order traversal
+
+ 7. In-order traversal:
+   a function that goes through a binary tree using in-order traversal
