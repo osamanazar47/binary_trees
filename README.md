@@ -38,3 +38,6 @@ Tasks:-
 
  7. In-order traversal:
    a function that goes through a binary tree using in-order traversal
+
+ 8. Post-order traversal:
+   a function that goes through a binary tree using post-order traversal
