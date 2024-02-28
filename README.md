@@ -44,3 +44,6 @@ Tasks:-
 
  9. Height:
    a function that measures the height of a binary tree
+
+ 10. Depth:
+   a function that measures the depth of a node in a binary tree
