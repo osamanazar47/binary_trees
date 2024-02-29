@@ -47,3 +47,6 @@ Tasks:-
 
  10. Depth:
    a function that measures the depth of a node in a binary tree
+
+ 11. Size:
+   a function that measures the size of a binary tree
