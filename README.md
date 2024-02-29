@@ -50,3 +50,6 @@ Tasks:-
 
  11. Size:
    a function that measures the size of a binary tree
+
+ 12. Leaves:
+   a function that counts the leaves in a binary tree
