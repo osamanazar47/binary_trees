@@ -56,3 +56,6 @@ Tasks:-
 
  13. Nodes:
    a function that counts the nodes with at least 1 child in a binary tree
+
+ 14. Balance factor:
+   a function that measures the balance factor of a binary tree
